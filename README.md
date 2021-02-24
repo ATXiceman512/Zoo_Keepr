@@ -1,4 +1,4 @@
-# Zoo_Keepr
+# zookeeper
 
 ## Description
 
@@ -6,7 +6,7 @@ In this module, you’ll create a web server using the Express.js framework and 
 
 ### Link to repository:
 
-https://github.com/ATXiceman512/Zoo_Keepr
+https://github.com/ATXiceman512/zookeeper
 
 ## Table of Contents
 
