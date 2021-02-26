@@ -135,6 +135,51 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "TEST",
+      "species": "TEST",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "TEST",
+      "species": "TEST",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "TEST",
+      "species": "TEST",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "TEST",
+      "species": "TEST",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "TEST",
+      "species": "TEST",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "18"
     }
   ]
 }
